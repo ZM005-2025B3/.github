@@ -1,4 +1,6 @@
 hallo, dit is Tenerife bij nacht.
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/4936456d-8a3f-4377-b652-83f091a3d63d" />
+
 
 * https://zm005-2025b3.github.io/team1/ (Benoît, Robbie)
 * https://zm005-2025b3.github.io/team2/ (Oscar, Noah)
